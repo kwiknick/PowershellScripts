@@ -1,0 +1,31 @@
+
+<Categories>
+    <Category>
+        <Title>Fruit</Title>
+        <Description>All types of fruit</Description>
+        <SubCategories>
+            <SubCategory>
+                <Title>Apples</Title>
+                <Description>Various types of apples</Description>
+            </SubCategory>
+            <SubCategory>
+                <Title>Oranges</Title>
+                <Description>Various types of oranges</Description>
+            </SubCategory>
+        </SubCategories>
+    </Category>
+    <Category>
+        <Title>Vegetables</Title>
+        <Description>All types of vegetables</Description>
+        <SubCategories>
+            <SubCategory>
+                <Title>Carrots</Title>
+                <Description>All varieties of carrots</Description>
+            </SubCategory>
+            <SubCategory>
+                <Title>Peas</Title>
+                <Description>All varieties of peas</Description>
+            </SubCategory>
+        </SubCategories>
+    </Category>
+</Categories>
