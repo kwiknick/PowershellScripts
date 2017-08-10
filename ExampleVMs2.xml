@@ -1,0 +1,20 @@
+<environment>
+    <dev>
+        <server>pizza</server>
+        <server>pizza</server>
+        <server>pizza</server>
+        <server>pizza</server>
+    </dev>
+    <qa>
+        <server>taco</server>
+        <server>taco</server>
+        <server>taco</server>
+        <server>taco</server>
+    </qa>
+    <prod>
+        <server>prod01</server>
+        <server>prod02</server>
+        <server>prod03</server>
+        <server>prod04</server>
+    </prod>
+</environment>

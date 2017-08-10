@@ -1,0 +1,20 @@
+<environment>
+    <dev>
+        <server>dev01</server>
+        <server>dev02</server>
+        <server>dev03</server>
+        <server>dev04</server>
+    </dev>
+    <qa>
+        <server>qa01</server>
+        <server>qa02</server>
+        <server>qa03</server>
+        <server>qa04</server>
+    </qa>
+    <prod>
+        <server>prod01</server>
+        <server>prod02</server>
+        <server>prod03</server>
+        <server>prod04</server>
+    </prod>
+</environment>
